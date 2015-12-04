@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            '我是铎铎'
+tagline:          'Do great things'
+description:      'My random translations. Tech and news in particular.'
+url:              http://lingduo.net.cn
+
+author:
+  name:           'Lingduo'
+  url:            http://weibo.com/u/5585285652
+
+paginate:         5
+
+# Custom vars
+version:          0.0.9
+
+github:
+  repo:           https://github.com/duoduoeeee
