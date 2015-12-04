@@ -18,8 +18,10 @@
 
 @font-face {
 	font-family: 'Myriad Pro';
-	src: url('/public/fonts/MyriadPro-Regular.eot');
-	src: local('☺'), url('/public/fonts/MyriadPro-Regular.woff') format('woff'), url('/public/fonts/MyriadPro-Regular.ttf') format('truetype'), url('/public/fonts/MyriadPro-Regular.svg') format('svg');
+	src: url('/public/fonts/MyriadPro-Light.eot');
+	src: url('/public/fonts/MyriadPro-Light.eot?#iefix') format('embedded-opentype'),
+		url('/public/fonts/MyriadPro-Light.woff') format('woff'),
+		url('/public/fonts/MyriadPro-Light.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
