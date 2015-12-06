@@ -202,10 +202,16 @@ blockquote p:last-child {
 }
 
 img {
-  display: block;
-  margin: 0 0 1rem;
-  border-radius: 5px;
+    display: block;
+    box-shadow: 0px 0px 10px #555;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 0 10px #555;
 }
+
 
 /* Tables */
 table {
