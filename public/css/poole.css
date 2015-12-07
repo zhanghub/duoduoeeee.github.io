@@ -60,7 +60,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #dcdcdc;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -149,6 +149,8 @@ abbr[title] {
 code,
 pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
+  display: block;
+  border-radius: 5px;
 }
 code {
   padding: .25em .5em;
@@ -217,7 +219,7 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #e5e5e5;
+  border: none;
   border-collapse: collapse;
 }
 td,
@@ -253,8 +255,9 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
+  color: #ff4700;
+  background-color: #ffca5b;
+  border-radius: 5px;
 }
 
 
@@ -307,9 +310,13 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
-.page,
+.page {
+  background-color: #b4b4b4;
+}
+
 .post {
   margin-bottom: 4em;
+  
 }
 
 /* Blog post or page title */
@@ -338,7 +345,7 @@ tbody tr:nth-child(odd) th {
   border-top: 1px solid #eee;
 }
 .related-posts {
-  padding-left: 0;
+
   list-style: none;
 }
 .related-posts h3 {
