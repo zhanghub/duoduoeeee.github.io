@@ -149,7 +149,6 @@ abbr[title] {
 code,
 pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
-  display: block;
   border-radius: 5px;
 }
 code {
