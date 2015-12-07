@@ -15,7 +15,7 @@ author:
   name:           'Lingduo'
   url:            http://weibo.com/u/5585285652
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          0.0.9
