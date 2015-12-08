@@ -204,6 +204,8 @@ blockquote p:last-child {
 
 img {
     display: block;
+    width: auto;
+    height: auto;
     box-shadow: 0px 0px 10px #555;
     border-radius: 6px;
     margin-left: auto;
