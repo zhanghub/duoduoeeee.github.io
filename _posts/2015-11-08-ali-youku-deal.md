@@ -9,6 +9,7 @@ title: 完全搬运！阿里巴巴收购优酷
 中英翻译由本人所做。原文链接：<http://money.cnn.com/2015/11/06/technology/alibaba-youku-tudou-video/index.html?iid=SF_LN>（请自备神奇的爬高工具）源文件见：<https://github.com/duoduoeeee/tr-source/blob/working/finished/20151108-init.md>
 
 **Alibaba is getting serious about its video ambitions.**
+
 **阿里巴巴对它自己视频领域的抱负越来越上心了**
 
 The online shopping giant is buying China's YouTube-like service Youku Tudou (YOKU) in an all-cash deal that values the company at $4.4 billion.

@@ -10,8 +10,9 @@ Rev 1.02:修正摘要字体过小的问题
 **Rev 1.12:增加图片内容的翻译**
 
 # Presidential candidate websites are terrible at privacy
-# 美总统候选人网站隐私保护差
+**美总统候选人网站隐私保护差**
 ![](http://i2.cdn.turner.com/money/dam/assets/150930101552-election-candidates-2016-780x439.jpg)
+
 **On their websites, U.S. presidential candidates ask for your personal details -- but most of them do a terrible job at keeping that private.
 候选人们向你索取个人信息——但他们中的绝大多数在保护隐私方面做得极差**
 

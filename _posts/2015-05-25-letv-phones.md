@@ -69,7 +69,7 @@ It's an audacious move, given the dominance of Apple and Google in the stateside
 
 ## The new wave
 
-## 新一波浪潮
+**新一波浪潮**
 
 The company joins a wave of Chinese Internet companies eying the United States. E-commerce conglomerate Alibaba recently debuted on Wall Street (its market cap the day of its IPO exceeded that of Facebook, Amazon, and IBM), and it has invested in a handful of companies that operate in the United States. Search giant Baidu has an R&amp;D center in Silicon Valley. And Tencent, another sprawling Chinese Internet company, now has a U.S. partner to offer ebooks stateside.
 
@@ -89,7 +89,7 @@ At the moment, Li and Howard say, their aims are modest. Basically, they see the
 
 ## A Formidable Task
 
-## 令人生畏的任务
+**令人生畏的任务**
 
 Still, the hurdles to entering the highly competitive U.S. smartphone market are enormous. "This is probably more work than they expect," says Dan Miller, the founder of research firm Opus Research, who closely follows the market. "Supply chains. Relationships. Getting room on retail shelves. As you go down the list, it becomes such a formidable task." Offering phones based on the Android operating system, Letv could face legal action from companies like Apple and Microsoft. And U.S. consumers may be wary of using devices that connect to machines in China. Many assume that Chinese companies freely share online data with the Chinese government, and the recent demand that Western tech companies provide Chinese authorities backdoor access to their hardware and software is hardly reassuring.
 
@@ -101,7 +101,7 @@ _阅读：为何人类对于宠物的关注多于对其他人_
 
 But Li says that Letv will run its online services from servers in the United States, if need be. "We will do what is necessary to make the consumers feel like their rights are being protected," he says. And he points out that the company will offer more than phones, including settop boxes and smart TVs. In China, the company has even said it will offer electric cars. People watch TV shows and movies in cars too. It's the video, Li says, that will carry the company's devices forward.
 
-但是，Mark Li 表示，如果需要的话，乐视将会在美国服务器上运行其网络服务。他说：“我们会做一切必要的事情，让用户觉得他们的权利是受保护的。”他还指出，乐视不仅仅要提供手机，还会有机顶盒和智能电视。乐视在中国甚至声称其将发售电动汽车——人们也会在汽车里观看电视节目和视频。Mark Li说，视频（内容）将会把乐视的设备不断推向前进。
+但是，Mark Li表示，如果需要的话，乐视将会在美国服务器上运行其网络服务。他说：“我们会做一切必要的事情，让用户觉得他们的权利是受保护的。”他还指出，乐视不仅仅要提供手机，还会有机顶盒和智能电视。乐视在中国甚至声称其将发售电动汽车——人们也会在汽车里观看电视节目和视频。Mark Li说，视频（内容）将会把乐视的设备不断推向前进。
 
 That may or may not offer a path to success. Remember: Amazon, another stateside company that does streaming online video, recently tried and failed to crack the smartphone market (its tablets and e-readers do okay). But Letv's arrival shouldn't be discounted out of hand. The company is playing the long game. Given its success in China, it has the resources to do so. And the same could be said for more than one Chinese tech giant on the edge of the U.S. market. American consumers -- and companies -- are used to their gadgets being made in China. Chinese brands may not be far behind.
 
