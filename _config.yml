@@ -10,6 +10,7 @@ title:            '我是铎铎'
 tagline:          'Do great things'
 description:      'My random translations. Tech and news in particular.'
 url:              /
+baseurl:	  /
 
 author:
   name:           'Lingduo'
