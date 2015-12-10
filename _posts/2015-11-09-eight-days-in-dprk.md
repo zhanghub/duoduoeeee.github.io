@@ -27,7 +27,7 @@ Since my return, I’ve had a lot of people, friends and strangers, ask me about
 
 Pictures and stories alone can’t do justice to what it’s really like being on the ground in North Korea. As a visitor, you’re watched 24/7, you have no freedom, and you’re constantly tense and on edge. But hopefully, this post will at least give you a glimpse into what life is like in one of the most restricted, enigmatic destinations in the world.
 
-照片和故事的讲述，并不能够2完全反映真正在朝鲜的经历。作为一个游客，你是被从早到晚监控着没有自由，你会一直处于紧张和焦虑的状态。但是我希望这篇博客可以让你们对这个严重受限的令人困惑不解的国家有一丢丢认识。
+照片和故事的讲述，并不能够完全反映真正在朝鲜的经历。作为一个游客，你是被从早到晚监控着没有自由，你会一直处于紧张和焦虑的状态。但是我希望这篇博客可以让你们对这个严重受限的令人困惑不解的国家有一丢丢认识。
 
 ## Departure Day
 
