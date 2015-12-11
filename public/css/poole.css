@@ -261,6 +261,7 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   background-color: #91c5ff;
   border-radius: 5px;
+  font-family: "Myriad Pro", "Microsoft YaHei Light", "Lucida Grande", "Microsoft YaHei",serif;
 }
 
 
