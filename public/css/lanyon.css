@@ -26,6 +26,16 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Georgia';
+	src: url('/public/fonts/Georgia.eot');
+	src: url('/public/fonts/Georgia.eot?#iefix') format('embedded-opentype'),
+		url('/public/fonts/Georgia.woff') format('woff'),
+		url('/public/fonts/Georgia.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 /*
  * Contents
  *
@@ -54,7 +64,7 @@ body {
 }
 
 html {
-  font-family: "Myriad Pro", "Microsoft YaHei Light", "Lucida Grande", "Microsoft YaHei",serif;
+  font-family: "Georgia", "Myriad Pro", "Microsoft YaHei Light", "Lucida Grande", "Microsoft YaHei",serif;
   color: #0c0c0c;
 }
 
@@ -336,6 +346,7 @@ a.sidebar-nav-item:focus {
     margin-top: 10px;
     margin-bottom: 10px;
     -webkit-box-shadow: 0 0 10px #555;
+    font-family: "Georgia", "Myriad Pro", "Microsoft YaHei Light", "Lucida Grande", "Microsoft YaHei";
 }
 
 /* Blog post or page title */
@@ -355,6 +366,7 @@ a.sidebar-nav-item:focus {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #2d2d2d;
+  font-family: "Myriad Pro", "Microsoft YaHei Light", "Lucida Grande", "Microsoft YaHei";
 }
 
 /* Related posts */
