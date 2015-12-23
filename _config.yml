@@ -16,6 +16,7 @@ author:
   url:            http://weibo.com/u/5585285652
 
 paginate:         10
+gems:		  [jekyll-paginate]
 
 # Custom vars
 version:          0.0.9
