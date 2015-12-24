@@ -24,4 +24,4 @@ title: About
 
 <hr />
 
-<p align=right>Lingduo</p>
+<small><p align=right>Lingduo</p></small>
