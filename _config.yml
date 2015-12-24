@@ -16,6 +16,7 @@ author:
 
 gems: [jekyll-paginate, jekyll-gist]
 paginate:         10
+gems:		  [jekyll-paginate]
 
 # Custom vars
 version:          0.0.9
