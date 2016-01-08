@@ -1,17 +1,36 @@
 ---
 layout: page
-title: Privacy Assurance
+title: Privacy Statement
 ---
+My website features https beacuse I'd like to bring about a better and more secure experience for you users. While this time my site features **Tencent Analytics**. For a clearer explanation,please visit its website at <ta.qq.com>.
 
-Just relax! I give all of you my word that pages in my website never include any method of tracking your activities. Besides,there is no alttext attached to the photos I include in my site so that these photos are not indexed by search engines.
+At first I thought about using Google Analytics. But on taking the domestic online environment into consideration,I ended up using Tencent. But you may relax, since the analytics script transfers under <a color=green>secure https connection</a>.
 
-![](/public/assets/cookies.png)
+Tencent analytics collects information including (but may not be
+limited to):
 
-The only cookie I'm mentioning is from Cloudflare, which provides DNS parsing services while offers secure https connections and that's definitely safe. You may refer to [this page](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-) for a clear explanation by Cloudflare.
-
-While I translate passages there might be resources from outside that include cookies. I'd like to keep all the photos, videos and things like that directly inside GitHub, but that could be a heavy burden for me because my GitHub site only offers 1 GB of storage.
-
-I once thought about adding Google Analytics or Baidu Analytics to my site -- just out of curiosity about what you are doing on my site and what computers and browsers you are using but I quickly gave up this thought because I believe that respecting everyone's privacy is what should be in everybody's mind and that privacy is something that should never be public or it couldn't be called so. Thus, just relax and enjoy pure content without any annoyance or disturbance.
-
+- Total Page views count daily
+- Individual IPs count daily
+- Individual user count daily
+- **User count per city**
+- Rank of pageview count
+- Pageview depth(To rank about how many pages on my site are accessed by a user)
+- Average duration of users staying on my pages
+- **Maybe your gender**(I don't know how's that possible)
+- Your ISP. ([What is an ISP?](http://baike.baidu.com/subview/855/5889203.htm)
+- **Information about your operating system.** Including:
+ - Name of your operating system. For instance: Windows
+ - Your browser name. For instance: Firefox
+ - Your flash version. For instance: 11
+ - Your screen resolution. For instance: 1366*768
+ - Whether Java is supported. For instance: Yes
+ - Your timezone settings. For instance: 北京
+ - Your platform information. For instance: x11 (A platform information indicates what kind of device you are using. This often refers to the architecture of a device.)
+- **Real time visitor details.** Including:
+ - Access time
+ - Your city
+ - Whether you are a new visitor
+ - Incoming source(external link,search engines,direct access,etc.)
+ - How long you are staying on one of my pages.
 <hr />
 <small><p align=right>Lingduo</p></small>
