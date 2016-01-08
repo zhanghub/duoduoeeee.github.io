@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Statement
 ---
-My website features https because I'd like to bring about a better and more secure experience for you users. While this time my site features **Tencent Analytics**. For a clearer explanation,please visit its website at <ta.qq.com>.
+My website features https because I'd like to bring about a better and more secure experience for you users. While this time my site features **Tencent Analytics**. For a clearer explanation,please visit its website at <http://ta.qq.com>.
 
 At first I thought about using Google Analytics. But on taking the domestic online environment into consideration,I ended up using Tencent. But you may relax, since the analytics script transfers under <font color=green>secure https connection</font>.
 
