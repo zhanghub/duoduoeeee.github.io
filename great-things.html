@@ -1,9 +1,29 @@
 ---
 layout: page
 ---
+<!-- player setup -- >
+<link rel="stylesheet" href="/public/css/APlayer.min.css">
+<script type="text/javascript" src="/public/css/APlayer.min.js">
+</script>
+<script type="text/javascript">
+var ap = new APlayer({
+    element: document.getElementById('player1'),
+    narrow: false,
+    autoplay: false,
+    showlrc: false,
+    music: {
+        title: 'Discover',
+        author: 'Minnutes',
+        url: 'https://gitcafe.com/duoduoeeee/picembed/blob/master/audio/discover.mp3',
+        pic: 'https://gitcafe.com/duoduoeeee/picembed/blob/master/minnutes.jpg'
+    }
+});
+ap.init();
+</script>
+
 <div>
 	<h1 class="page-title" align=center>Let's try out something new.</h1>
-	  <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=60% height=80% src="http://music.163.com/outchain/player?type=2&id=21224495&auto=0&height=66"></iframe></center>
+	  <center><div id="player1" class="aplayer"></div></center>
   <p align=center>Appreciating everyone who tries or just attempted to be different from the masses.</p>
 	<p align=center>It's them that make the world a better place.</p>
 
