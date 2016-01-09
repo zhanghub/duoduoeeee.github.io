@@ -52,7 +52,7 @@ Here's what you need to know:
 
 是的。但是这些市场今年还是涨了啊？对，这是真的。熊市巨大的损失之后，紧接着就是一次强劲的牛市。与1月1日相比，上证中的股票还是涨了20%。
 
-![](http://i2.cdn.turner.com/money/dam/assets/150702170003-china-charts-7-2-780x439.png)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/150702170003-china-charts-7-2-780x439.png)
 
 4) Still, there's a lot of pain out there, especially among retail investors. Just 10% to 12% of Chinese households own shares, but a wave of newbie investors have flooded into the market this year. Brokers opened four million new accounts in a single week in April, according to BlackRock.
 

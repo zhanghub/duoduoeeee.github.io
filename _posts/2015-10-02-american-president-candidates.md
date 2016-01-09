@@ -11,7 +11,7 @@ Rev 1.02:修正摘要字体过小的问题
 
 # Presidential candidate websites are terrible at privacy
 **美总统候选人网站隐私保护差**
-![](http://i2.cdn.turner.com/money/dam/assets/150930101552-election-candidates-2016-780x439.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/150930101552-election-candidates-2016-780x439.jpg)
 
 **On their websites, U.S. presidential candidates ask for your personal details -- but most of them do a terrible job at keeping that private.
 候选人们向你索取个人信息——但他们中的绝大多数在保护隐私方面做得极差**
@@ -36,7 +36,7 @@ For example, Carly Fiorina, the former Hewlett-Packard ([HPQ](http://money.cnn.c
 
 “这种情况很惊人，”网络信任联盟的执行长Craig Spiezle说道，“Carly自己就来自商业圈，无论谁拿到这些隐私信息都会意识到这些数据很有价值，它是一笔资产啊。”
 
-![](http://i2.cdn.turner.com/money/dam/assets/150930110627-carly-privacy-policy-custom-2.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/150930110627-carly-privacy-policy-custom-2.jpg)
 
 >==Carly for President可能会出于筹款或其他目的，将你的电子邮箱地址或其他个人信息提供或销售给第三方。除此之外，我们可能会将你的个人信息与我们认为你可能感兴趣的，提供商品或服务的第三方共享。==我们可能随时会与其他组织或企业合作，推出联合赞助或联合冠名的推广行为、服务或者活动，并可能将你的个人信息与我们的联合赞助商以及合作伙伴共享。此外，Carly for President可能会将你的个人信息提供给服务提供商或承包商，并以它们的名义行使一些功能，包括但不限于：受雇收发消息的企业和个人；受雇通过电子邮件或直接信件的方式发送我们推广材料的企业和个人、提高我们社交媒体存在度和活动的企业和个人；处理银行卡付款以及通过发送各种信息并进行营销和支持功能的企业和个人。同时，我们可能使用第三方社交媒体平台，包括第三方社交媒体网站与你取得联系。
 

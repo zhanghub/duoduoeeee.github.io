@@ -9,11 +9,11 @@ Rev1.02:修正了一些细微的显示问题和小错误。
 
 **Windows 10评测：集Win7与8之大成**
 
-![](http://o.aolcdn.com/dims5/amp:95dcb0bd40a8d4b341eef5bc90c33fbe701dcbd2/r:24,24,min/c:24,24,0,3/q:80/http:/www.blogcdn.com/www.engadget.com/media/2015/03/devindra-hardawar-headshot.jpg) by [Devindra Hardawar](http://www.engadget.com/about/editors/devindra-hardawar/) | [@devindra](http://twitter.com/devindra) | July 28th 2015 At 4:30pm
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/devindra-hardawar-headshot.jpg) by [Devindra Hardawar](http://www.engadget.com/about/editors/devindra-hardawar/) | [@devindra](http://twitter.com/devindra) | July 28th 2015 At 4:30pm
 
 中英翻译由本人所做。原文链接：[http://www.engadget.com/2015/07/28/windows-10-review](http://www.engadget.com/2015/07/28/windows-10-review)
 
-![](http://o.aolcdn.com/hss/storage/midas/a0c19b4812201e5b4826ffd668d2ba53/202384979/Windows+10+review+fullbleed.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+review+fullbleed.jpg)
 The best thing about Windows 10 is that it's simply Windows, through and through. It's as if Microsoft realized that devaluing the desktop in Windows 8 was akin to sacrilege, and Windows 10 is its penance. At its core, it's a union of the best qualities of [Windows 7](http://www.engadget.com/2009/08/12/windows-7-review/) and Windows 8 -- the desktop features of the former with some of the touch-friendly aspects of the latter. It's no wonder Microsoft is calling it an operating system that's both fresh and familiar. It's easy to use with a keyboard and mouse, but it's even better with touchscreen computers. The [Start menu](http://www.engadget.com/2015/01/21/windows-10-design/) is back! And new features like Microsoft's [Cortana virtual assistant](http://www.engadget.com/tag/cortana/) and [Edge browser](http://www.engadget.com/2015/04/29/microsoft-edge/) breathe new life into Windows. Microsoft is framing the OS as "Windows as a Service," meaning it's never quite done and constantly evolving. Most importantly, Windows 10 proves that Microsoft's dream of delivering a single OS that can work across computers, tablets and phones might actually come true.
 
 关于Windows10，最棒的一点在于，它终于从头到脚只剩窗口了。看起来，微软意识到了在Windows8中低估桌面的价值无异于一种亵渎，而Windows10则是它的苦修。从其底层来讲，它是Windows7和Windows8的最佳特性的结合——前者的桌面特性和后者对于触控较为友好的某些方面。无怪乎微软将其称作“全新而熟悉”的操作系统。它很容易用键鼠操作，对于触屏电脑来说亦更好使用。[开始菜单](http://www.engadget.com/2015/01/21/windows-10-design/)强势回归！此外，一些新的特性，像是微软[小娜虚拟助理](http://www.engadget.com/tag/cortana/)和[Edge浏览器](http://www.engadget.com/2015/04/29/microsoft-edge/)也给Windows注入了新的生机。微软正将Windows10塑造成一项服务，这意味着它将永不满足，持续更新。更为重要的是，Windows10表明，微软带来一款能在电脑、平板和手机之间跨屏幕兼容系统的梦想，可能真的要实现了。
@@ -69,7 +69,7 @@ I don't blame Microsoft for trying to sacrifice some sacred cows with Windows 8.
 
 **上手体验**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/7f2692464ed7b1739629f29398512381/202384986/Windows+10+review+gallery+4.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+review+gallery+4.jpg)
 Before we dive into the nitty-gritty of Windows 10, it's worth exploring the upgrade experience. In short, it's pretty painless! Gone are the days where we had to devote hours and enlist the help of Windows specialists just to upgrade to a new OS (or, in my case, be the one to get recruited). Microsoft has steadily made upgrading easier with Windows 7 and 8, but with Windows 10, the process is even smoother. If you're a current Windows user, you just need to click the "Get Windows 10" app in the system tray and click "Reserve Your Free Upgrade" to [join the queue](http://www.microsoft.com/en-us/windows/windows-10-upgrade). If you don't see that app, make sure you have all of the current Windows Updates. Microsoft is making Windows 10 available to its [Insider testers first](http://www.engadget.com/2015/07/02/windows-10-staged-rollout/) starting on July 29, so you might have to wait a bit before you can upgrade.
 
 在深入Windows10本身之前，是值得看看升级win10过程体验如何的。一句话来说，完全无痛！我们之前为了升级一个系统不得不请Windows专家来耗费几个小时的日子一去不复返了！（或者是需要我受雇于你们的日子一去不复返了）。微软已经逐渐地使得更新Windows7和8不是那么难。而在Windows10中，这一过程甚至更为顺滑了。如果你现在是Windows用户，你只需要在系统托盘里点“获取Windows10”应用，再点“预定免费更新”就能[排上队了](http://www.microsoft.com/en-us/windows/windows-10-upgrade).如果你找不见这个应用，你得保证你安装了现行的所有Windows更新。自7月29日起，微软让它的[内部测试人员（先行测试）](http://www.engadget.com/2015/07/02/windows-10-staged-rollout/)。所以你可能得等一阵才能更新。
@@ -82,17 +82,17 @@ Once your installation is complete, you're prompted to add in some personalizati
 
 安装过程完成之后，Windows会要求你设置个性化选项，并使用微软账户登录。在配备了固态硬盘的现代电脑上，Windows10基本上会在10至15秒内启动，大概与Windows7和8启动的速度相当。（如果你还没有固态硬盘，那是时候买一个了！）登录页看起来将没有什么不同，但是如果你买的电脑支持[Windows Hello](http://www.engadget.com/2015/03/17/windows-hello/)——意思是你的电脑有指纹识别器、眼部扫描器或者红外摄像头（比如英特尔的[RealSense 3D camera](http://www.engadget.com/2014/01/06/intel-realsense/)）——你也可以使用生物识别技术立刻登录Windows。支持Windows Hello的设备现在没那么多，现有的包括Dell Inspiron 15 5548、HP Envy 15t和Lenovo ThinkPad Yoga 15。但是从我们见到的演示来看，相比仅仅输入密码而言，它更像是逻辑上的创新。小小的登录举动会更加激起你对它的好奇心，这正如Windows10的很多其他方面一样。
 
-![](http:/www.blogcdn.com/slideshows/images/slides/356/323/3/S3563233/slug/s/windows-10-screenshots-1-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/windows-10-screenshots-1-1.jpg)
 
-![](http://www.blogcdn.com/slideshows/images/slides/356/323/4/S3563234/slug/s/windows-10-screenshots-2-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/windows-10-screenshots-2-1.jpg)
 
-![](http://www.blogcdn.com/slideshows/images/slides/356/323/5/S3563235/slug/s/windows-10-screenshots-3-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/windows-10-screenshots-3-1.jpg)
 
-![](http://www.blogcdn.com/slideshows/images/slides/356/323/6/S3563236/slug/s/windows-10-screenshots-4-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/windows-10-screenshots-4-1.jpg)
 
-![](http://www.blogcdn.com/slideshows/images/slides/356/323/7/S3563237/slug/s/windows-10-screenshots-5-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/windows-10-screenshots-5-1.jpg)
 
-![](http://www.blogcdn.com/slideshows/images/slides/356/323/8/S3563238/slug/s/windows-10-screenshots-6-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/windows-10-screenshots-6-1.jpg)
 
 If you've used any previous version of Windows, you'll be right at home with Windows 10. The desktop is once again front and center, rather than being shoved off to the side like it was in Windows 8. The Start menu replaces the blocky Start screen from Windows 8, which was one of the many reasons that kept users from upgrading. Even Windows 8's modern apps got something new: They can actually be used in their own windows! Before, they were either full-screen or took up a vertical slice of your display.
 
@@ -114,7 +114,7 @@ Design wise, Microsoft stuck with the sharp corners and tile-like look it's been
 
 **开始菜单，我们想死你了**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/76db5602953589242ea7e53561fbc511/202384983/Windows+10+review+gallery+1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+review+gallery+1.jpg)
 
 Like most of Windows 10, the Start menu's return should appease longtime fans and newcomers who are more used to Windows 8. It features your most-used applications (something resurrected from several Windows versions ago), and you can click through to get to all of your applications. But the bulk of the Start menu is made up of Live Tiles, those blocky icons Microsoft can't seem to get enough of. I didn't care for them much on the Windows 8 Start screen, but on Windows 10 they're more functional, especially since you don't need to completely leave your desktop to see them. Both the Live Tiles and the Start menu itself are customizable, so you can make them as small or as big as you'd like. At its largest, the menu is practically indistinguishable from the Windows 8 Start screen, but don't tell that to Windows 7 holdouts.
 
@@ -132,7 +132,7 @@ And what if you're the rare Windows 8 user who actually liked that Start screen?
 
 **有了Continuum功能，Windows不仅仅是养眼**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/e2f9ecab1c7a770bc0ca51f6d49e8640/202384987/Windows+10+review+gallery+5.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+review+gallery+5.jpg)
 
 One of the best things about Windows 10 is its ability to transform itself from a touch-focused platform to traditional desktop platform easily. Microsoft calls that feature "Continuum," because of the seamless transition between different work environments. It's really meant for multi-function computers like the Surface, which can be both a tablet and laptop depending on which accessories are connected. But it could also be useful if you want to connect a keyboard and mouse to your Windows 10 tablet. The tablet mode simplifies the taskbar, makes every application full-screen and enables a Windows 8-style Start screen. Windows 10 can automatically switch interfaces when it detects your keyboard has been removed, or you can choose to make the swap manually from the settings menu.
 
@@ -150,13 +150,13 @@ While testing Windows 10 on a Surface Pro 3 over the past few months -- first wi
 
 **小娜，虚拟助手放桌面**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/4e3d92f24567b8c0f08a4589e586818b/202384985/Windows+10+review+gallery+2.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+review+gallery+2.jpg)
 
 Okay, virtual assistants are nothing new these days, but Cortana brings plenty of notable features to Windows 10. While setting it up, you can choose to have Cortana always listen for your commands (enabled by saying "Hey Cortana!"). You can ask her about basic things like the current weather or what's on your schedule, or you could have her search the web using Bing. Cortana can answer some queries without even launching a web browser (you wouldn't believe how old Tom Cruise really is). If you're not a fan of voice commands, you can also type in queries into the Cortana search box on the taskbar, and you can choose to have her only activate voice commands when you hit a button.
 
 好吧，现在这年头，虚拟助理早已不是什么新鲜事物，但Cortana为Windows10带来了大量的有意思的功能。在设置的时候，你可以选择让Cortana始终等待你的命令启动（就是说“嘿，Cortana”启动Cortana）。你可以问他基本的问题，比如当前的天气或者你有什么日程安排，或者让他用必应搜索网页。Cortana可以在不打开浏览器的情况下响应一些请求（你不敢相信汤姆·克鲁兹多大了）。（见图）如果你不是那么喜欢语音控制的话，你还可以在任务栏上的Cortana搜索栏中打字，还可以设置让Cortana仅在你按下某个键时才激活语音指令。
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x676+0+123/resize/630x355!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/3215abcf91805c3af7762375ab0668ed/202385169/Windows+10+screenshots++2.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+screenshots++2.jpg)
 
 If you're worried about having Cortana always listening for your commands, perhaps over latent fears about AI taking over the world, I'd suggest getting over it. Cortana's true strength, much like Alex on Amazon's Echo, is her ability to handle voice commands at any moment. If you're in the middle of a work document, for example, you can tell Cortana to set a quick reminder or look something up without interrupting your workflow. Siri requires manual activation, unless your iOS device is plugged in, and while Google Now has become more widely available for voice commands on Android phones, it's still not as reliable as an always-on assistant.
 
@@ -174,7 +174,7 @@ Cortana处理语音指令几乎与Siri和Google Now一样好。它识别语音�
 
 **Edge浏览器：向IE说再见**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/a61429ebacc51783cc64f5b3d96d5382/202385166/Windows+10+screenshots++3.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+screenshots++3.jpg)
 
 If you ever wanted Microsoft to just give up on Internet Explorer and create a web browser from scratch, Edge may be just what you're looking for. It forgoes all of the legacy protocols, like ActiveX, that turned Internet Explorer into a slow and insecure beast. And it takes a few lessons from Google's Chrome with a minimalist style and speedy browser engine. In fact, I ended up preferring Edge to Chrome in my testing, mainly because Google's browser has become a major memory hog over the years.
 
@@ -184,13 +184,13 @@ Edge may be the most elegant piece of software to come from Microsoft. Its inter
 
 Edge怕是微软推出的最优雅的一款软件了。它的界面很简单，顶上是标签页，标签页下面是后退、前进以及刷新键，以及一个地址栏。Edge比其他浏览器更为智能，因为它还集成Cortana（但是不带语音控制）。你可以在里面输入问题，在Edge的“位置”栏中直接得到回答，而不需要再按enter完成搜索。这东西Google Chrome一直在搞，但Edge将其升到了一个全新的高度。
 
-![](http://o.aolcdn.com/dims-global/dims/GLOB/5/200/130/90/http://www.blogcdn.com/slideshows/images/slides/355/977/1/S3559771/slug/s/screenshot-1-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/screenshot-1-1.jpg)
 
-![](http://o.aolcdn.com/dims-global/dims/GLOB/5/200/130/90/http://www.blogcdn.com/slideshows/images/slides/355/977/2/S3559772/slug/s/screenshot-2-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/screenshot-2-1.jpg)
 
-![](http://o.aolcdn.com/dims-global/dims/GLOB/5/200/130/90/http://www.blogcdn.com/slideshows/images/slides/355/977/3/S3559773/slug/s/screenshot-3-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/screenshot-3-1.jpg)
 
-![](http://o.aolcdn.com/dims-global/dims/GLOB/5/200/130/90/http://www.blogcdn.com/slideshows/images/slides/355/976/6/S3559766/slug/s/screenshot-4-1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/screenshot-4-1.jpg)
 
 You can manage your Favorites, Reading List entries (articles you save to read later), History and Downloads from Edge's Hub, which mostly stays out of the way until you need it. Microsoft also gave Edge annotating capabilities: You can highlight and mark up web pages any way you like (the Surface's stylus comes in handy for this) and send them off to Evernote with just a few clicks. Those marked-up pages also retain your notes when you visit them again.
 
@@ -200,7 +200,7 @@ You can manage your Favorites, Reading List entries (articles you save to read l
 
 **改进了Xbox应用**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/b3fb41dac962176cabace93597632f51/202385165/Windows+10+screenshots++4.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+screenshots++4.jpg)
 
 While the Xbox app was a decent way to stay connected to your gaming friends in Windows 8, now it's actually useful for gaming. Windows 10 can stream games from any Xbox One on your home network (and eventually [Xbox 360 games that are compatible](http://www.engadget.com/2015/06/17/xbox-360-game-streaming-windows-10/)) -- all you need to do is plug an Xbox One controller into your PC and hit the streaming button on the Xbox app. The games still run on your Xbox One; it's just spitting out a real-time video feed to your computer rather than just your TV. As you can imagine, such a feature requires pretty strong network capabilities, so I'd recommend plugging either your Xbox or computer into Ethernet (ideally both) to use it. Streaming over WiFi is possible, but even with a strong router, I ran into issues testing out this feature.
 
@@ -218,7 +218,7 @@ Windows10的Xbox应用还可以是你电脑上的所有游戏的中枢，它甚�
 
 **其它应用**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x745+0+0/resize/630x391!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/1474021d16b31e150d19fa90691cbc06/202385167/Windows+10+screenshots++5.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+screenshots++5.jpg)
 
 Windows 10 also features redesigned versions of core apps, like Mail, Calendar, Maps and the Windows Store. They all adopt the minimalist aesthetic from Windows 10, but what's really interesting about them is that they're universal apps, meaning they're the exact same apps that will run on Windows 10 phones later this year. We're still waiting to see how third-party developers latch onto Microsoft's universal apps -- those that can be written once and run across multiple devices -- but the company has at least proven they're possible with Windows 10.
 
@@ -228,7 +228,7 @@ Apps were a big focus at Microsoft's [Build developer conference](http://www.eng
 
 [微软开发者大会](http://www.engadget.com/2015/05/02/build-2015-windows-10/)上，应用是一个重要的焦点，这很好。windows8的很多大问题之一在于，它并未像iOS和Android一样吸引一个健康的开发者社区，即使微软在系统实际开始开发之前就开始谈论“通用应用”了。为了达到（多开发应用）的目的，微软还宣布开发者可以[重编译](http://www.engadget.com/2015/04/29/android-ios-apps-on-windows-10/)他们的iOS和Android应用，让它们在windows10上工作。实际上，King就是使用这种方法，将Candy Crush Saga移植到windows上的。微软还开发了iOS平台和Linux平台上的开发者工具，这样，开发者甚至不需要运行windows就能开发windows应用了。
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x753+0+0/resize/630x395!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/af7a3cc60f22c2b6997e754b2c96421e/202385168/Windows+10+screenshots++6.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+screenshots++6.jpg)
 
 As for those new Windows 10 apps, they all look and function better than their Windows 8 counterparts. Mostly, that's because you can actually run them in traditional windows. The Mail and Calendar apps, in particular, are good enough that I'll likely be sticking with them for the time being. They're fast, relatively lightweight and attractive -- the sort of thing you normally had to rely on non-Microsoft developers to create. The News app is also more useful than I thought it would be. It's basically Microsoft's spin on news readers like Feedly, except built right into the OS. News did a decent job of alerting me to interesting tidbits, like when NASA discovered an [Earth-like exoplanet](http://www.engadget.com/2015/07/23/nasa-kepler-452b/), and even without much training it highlighted news it knew I would be interested in.
 
@@ -242,7 +242,7 @@ The upgraded Windows Store app also makes it much easier to locate and install n
 
 **价位和系统要求**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/c0eb5c0f408de98b126a9829b98f2128/202385164/Windows+10+screenshots++1.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+screenshots++1.jpg)
 
 Microsoft surprised everyone when it announced that it would be giving away [Windows 10 for free](http://www.engadget.com/2015/01/21/windows-10-free-upgrade/) (specifically for existing Windows 7 and 8 users). It showed that, for once, it was more interested in getting people to use Windows than it was in forcing people to pay for yet another upgrade. Instead, Microsoft made it clear that it was far more important to actually get people on Windows 10, which would make it a more viable platform for developers, as well as a gateway to its many online services. Windows 10 is more than a piece of retail software; it's the basis of Microsoft's future Windows empire.
 
@@ -260,7 +260,7 @@ As far as basic requirements go, Windows 10 is pretty much the same as Windows 8
 
 **总结**
 
-![](http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/630x420!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/edcd5ab0a9a6d03d92c3c632409fbba1/202384988/Windows+10+review+gallery+6.jpg)
+![](https://gitcafe.com/duoduoeeee/picembed/raw/master/Windows+10+review+gallery+6.jpg)
 
 I had [high hopes for Windows 10](http://www.engadget.com/2015/05/02/build-2015-windows-10/) after Microsoft's Build conference, where I noted that, for once, the company was acting as a leader, not a follower. Windows 10 delivers the most refined desktop experience ever from Microsoft, and yet it's so much more than that. It's also a decent tablet OS, and it's ready for a world filled with hybrid devices. And, barring another baffling screwup, it looks like a significant step forward for mobile. Heck, it makes the Xbox One a more useful machine.
 
