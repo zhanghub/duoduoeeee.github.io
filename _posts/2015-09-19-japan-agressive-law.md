@@ -7,7 +7,7 @@ title: 【搬运】日本通过新版安保法案
 
 **日本立法者批准日自卫队强化其海外角色**
 
-![](https://gitcafe.com/duoduoeeee/picembed/raw/master/141218022339-will-ripley-profile-small-11.jpg)
+![](https://o0stweauh.qnssl.com/141218022339-will-ripley-profile-small-11.jpg)
 
 **By [Will Ripley](http://edition.cnn.com/profiles/will-ripley), Jason Hanna and Eimi Yamamitsu, CNN**
 Updated 0046 GMT (0746 HKT) September 19, 2015
@@ -114,7 +114,7 @@ Abe's face appears on posters with a Hitler-style mustache and Nazi swastika dra
 
 在海报上，安倍的脸被画上了希特勒式的小胡子，额头上画着纳粹的万字标志。这信号十分清楚。示威者当中，有些人就将他们的首相看做是独裁者。
 
-![](https://gitcafe.com/duoduoeeee/picembed/raw/master/150916105041-tokyo-pacficist-protest-abe-public-enemy-exlarge-169.jpg)
+![](https://o0stweauh.qnssl.com/150916105041-tokyo-pacficist-protest-abe-public-enemy-exlarge-169.jpg)
 
 > Civic group members hold placards during an anti-government rally in Tokyo on August 23, 2015.
 > 8月23日，市民团体成员在东京的一次反政府集会中举着海报。
@@ -135,7 +135,7 @@ Hidenori Shida是一名65岁的IT工程师。他说，一枚日本子弹在某�
 
 “日本曾保证，不再发动战争，”他说，“（过去的）70年我们可一个人都没害。（侵略战争）的债是无法原谅的。”
 
-![](https://gitcafe.com/duoduoeeee/picembed/raw/master/150812201044-japan-wwii-fighter-pilot-memories-00001619-exlarge-169.jpg)
+![](https://o0stweauh.qnssl.com/150812201044-japan-wwii-fighter-pilot-memories-00001619-exlarge-169.jpg)
 
 > Japanese WWII 'Zero' pilot reflects on life and war
 > 日本二战时期零式战机飞行员回忆生活与战争

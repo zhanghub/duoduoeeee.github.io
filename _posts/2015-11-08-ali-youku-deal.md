@@ -4,7 +4,7 @@ title: 【搬运】阿里巴巴收购优酷
 ---
 
 # Alibaba buys China's 'YouTube' for $3.6 billion
-![](https://gitcafe.com/duoduoeeee/picembed/raw/master/151016122348-alibaba-logo-780x439.jpg)
+![](https://o0stweauh.qnssl.com/151016122348-alibaba-logo-780x439.jpg)
 
 中英翻译由本人所做。原文链接：<http://money.cnn.com/2015/11/06/technology/alibaba-youku-tudou-video/index.html?iid=SF_LN>（请自备神奇的爬高工具）源文件见：<https://github.com/duoduoeeee/tr-source/blob/working/finished/20151108-init.md>
 
