@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Interesting
 ---
+<h1 class="page-title" align=center>Interesting</h1>
+
 ![](https://o0stweauh.qnssl.com/20150106081545344-1.jpg)
 
 <p align=center>"Oh well, humans are really Interesting." (This is certainly not me)</p>
