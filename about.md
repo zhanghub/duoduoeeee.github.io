@@ -14,11 +14,11 @@ title: About
 <p align=center><a href="http://ankitsultana.me/"><i class="fa fa-globe"></i></a> - <a href="https://twitter.com/AnkitSultana"><i class="fa fa-twitter"></i></a></p>
 
 ##Special thanks to:
-- The [git](https://git-scm.com/) software for its amazing version controlling capability,and [Git Extensions](https://gitextensions.github.io/) for its great GUI experience.
-- The [gem](https://rubygems.org/),[Bundler](http://bundler.io/) software as well as the [Jekyll](http://jekyllrb.org) project as site-building tools
-- AnkitSultana, the Jekyll theme maker (as shown above)
+- The [git](https://git-scm.com/) software for its amazing versioning capability,and [Git Extensions](https://gitextensions.github.io/) for its great GUI experience.
+- The [gem](https://rubygems.org/), [Bundler](http://bundler.io/) software as well as the [Jekyll](http://jekyllrb.org) project as site-building tools
+- AnkitSultana, who originally built this Jekyll theme (as shown above)
 - [GitHub](https://github.com) as well as [GitHub Pages](https://pages.github.com) for the powerful and stable site building tools
-- Various sources of interesting passages for me to translate ;)
+- Various sources of interesting passages for me to translate from ;)
 
 <hr />
 
