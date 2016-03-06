@@ -12,7 +12,7 @@ title: 【搬运】CNN评中国股市
 
 _由于一些样式无法显示，我将页面做了重排，内容保持不变。此翻译于早前发布在我的新浪博客上。_
 
-> Fill in the blank: In recent weeks, China's stock markets have **<strong><strong><strong>__**</strong></strong></strong>.
+> Fill in the blank: In recent weeks, China's stock markets have \_\_\_\_\_\_\_.
 >
 > A) Wiped out as much as $2 trillion of investors' wealth.
 >

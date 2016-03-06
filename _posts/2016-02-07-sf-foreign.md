@@ -8,7 +8,7 @@ title: 【搬运】如何教外国人做红包？
 
 <p>我现在正伴着各种鞭炮声翻译这个。祝筒子们春节快乐，万事顺意！</p>
 
-原作：[Amanda Sims](http://food52.com/users/206106-amanda-sims)|<a href="https://twitter.com/mandasims"><i class="fa fa-twitter"></i></a>|<a href="http://instagram.com/mandasims"><i class="fa fa-instagram"></i></a>
+原作：[Amanda Sims](http://food52.com/users/206106-amanda-sims) - <a href="https://twitter.com/mandasims"><i class="fa fa-twitter"></i></a> - <a href="http://instagram.com/mandasims"><i class="fa fa-instagram"></i></a>
 
 # Make Your Own Red Envelopes for Chinese New Year
 
@@ -30,7 +30,7 @@ Red to symbolize good luck and to ward off evil spirits, envelopes are tradition
 >
 >Photo by James Ransom
 
-##What you'll need:
+## What you'll need:
 
 **需要的东西**
 
@@ -62,7 +62,8 @@ Red to symbolize good luck and to ward off evil spirits, envelopes are tradition
   接下来，你用剪刀剪下顶部和底部两边的纸，留下中间那里的一个小片，它的作用是稍后把信封粘好（如下图所示）。
 
   ![](https://o0stweauh.qnssl.com/c.jpg)
-  >Photo by James Ransom)
+
+  >Photo by James Ransom
 
   Fold in thirds, then trim the edges to suit the size you're going for.
 

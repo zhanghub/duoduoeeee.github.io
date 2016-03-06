@@ -8,7 +8,7 @@ title: 【搬运】朝鲜八日深度评测
 
 #8 Days in North Korea 朝鲜八日游
 
-<div class=message><p>实力预警——多图多视频以及YouTube iframe植入！！请勿使用流量查看，同时请自备神奇的爬高工具！</p></div>
+<p>实力预警——多图多视频以及YouTube iframe植入！！请勿使用流量查看，同时请自备神奇的爬高工具！</p>
 
 **Welcome to the world’s most isolated civilization**
 **欢迎来到全球最封闭的文明**
@@ -38,6 +38,7 @@ My journey began with mixed feelings of trepidation, excitement, and unbridled c
 我的旅程伴着恐惧、激动、以及十二分强烈的好奇心开始了。手中拿着签证，我搭上了朝鲜的国营航空，叫做“高丽航空”的，这是全球评级最低的航空服务，其在[SkyTrax](http://www.dailymail.co.uk/news/article-3214053/Fasten-seatbelts-bumpy-ride-s-really-like-fly-North-Korea-s-Air-Koryo-worst-airline-world.html)上的安全性评级只有一星级。
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/1000/1*SvEsGNGKYS7milV782jQvw.jpeg) ![](https://d262ilb51hltx0.cloudfront.net/max/1000/1*Q5eBCrMG6QHaTLXgTOJKtw.jpeg)
+
 >My North Korean visa card (left); Air Koryo, Korea’s national air carrier (right)
 >
 >我的朝鲜签证（左图）；高丽航空，朝鲜国营的航空服务（右图）
@@ -66,7 +67,7 @@ Our in-flight magazine had articles with headlines like:
 
 我们机上的杂志里有些文章，标题像这样：
 
-<blockquote name="ee82" id="ee82" class="graf--pullquote pullquote graf-after--p">Local Elections Display the Invincible Might of DPRK Government
+<blockquote>Local Elections Display the Invincible Might of DPRK Government
 朝鲜地方人民会议议员选举展现了民主朝鲜战无不胜的威力</blockquote>
 
 which referred to Kim Jong Un with a very official-sounding title that took up nearly a whole paragraph:

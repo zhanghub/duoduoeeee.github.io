@@ -4,7 +4,7 @@ title: 【搬运】去哪里优雅地喝一波咖啡
 ---
 
 中英翻译由本人所作。原文链接：
-[http://www.bbc.com/travel/story/20140421-living-in-the-worlds-top-coffee-cities](http://www.bbc.com/travel/story/20140421-living-in-the-worlds-top-coffee-cities)
+<http://www.bbc.com/travel/story/20140421-living-in-the-worlds-top-coffee-cities>
 
 本译文在早前发表在本人新浪博客上，现移植至此。
 

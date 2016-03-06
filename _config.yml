@@ -1,26 +1,82 @@
-# Dependencies
-highlighter:      pygments
-markdown:	  redcarpet
+# User Settings | Edit there as per required
 
-# Permalinks
-permalink:        pretty
+title: 我是铎铎
+url: "https://lingduo.net.cn"
 
-# Setup
-title:            '我是铎铎'
-tagline:          '寒山不系江心月 世间云外刹那灯'
-description:      'My random translations. Tech and news in particular.'
-url:              http://lingduo.net.cn
+# This will show up at the top of index page
+site_heading: >
+    我是铎铎
 
-author:
-  name:           'Lingduo'
-  url:            http://weibo.com/u/5585285652
+email: pleasant3518@126.com
+author: duoduoeeee
+# This description will show up in google search results
+# (for index page) etc.
+description: >
 
-gems: [jekyll-paginate, jekyll-gist]
-paginate:         10
-gems:		  [jekyll-paginate]
 
-# Custom vars
-version:          0.0.9
+# This will what will show against &copy; in the footer
+copyright: duoduo
+# Toggle your short bio, which will displayed on your index page
+# Just toggle it and run jekyll again to see
+intro: true         # Tip: Remove the span from site_heading if intro is set to true
+# This will be displayed in your intro
+short_bio: >
+    寒山不系江心月 世间云外刹那灯
 
-github:
-  repo:           https://github.com/duoduoeeee
+permalink: /:title.html
+
+# Comments are powered by disqus
+comments: false
+
+# keep about_stub roughly 12 words long for best results
+# This will show up at the bottom of each post
+# Note that about_footer should be true if you want
+# to see author information at the bottom of each post
+about_stub: >
+    
+
+about_footer: false
+
+twitter_username: duoduoeeee
+github_username: duoduoeeee
+facebook_id: ling.duo.5
+
+favicon: true
+favicon_location: "/../../images/favicon.ico"
+
+profile_picture: "../../images/IMG_2195.JPG"
+paginate: 5
+paginate_path: "/page/:num"
+
+####################################
+####################################
+### Build Settings | Don't Touch ###
+####################################
+####################################
+####################################
+
+markdown: redcarpet
+
+gems:
+    - jekyll-paginate
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# Scopes
+defaults:
+    -
+        scope:
+            path:   ""
+            type:   "pages"
+        values:
+            layout: "page"
+    -
+        scope:
+            path:   ""
+            type:   "posts"
+        values:
+            layout: "post"
+
+exclude: [vendor] # For travis ci

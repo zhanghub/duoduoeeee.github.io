@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h1 class="page-title" align=center>Interesting</h1>
+<h1 class="post-title" style="text-align: center;">Interesting</h1>
 
 ![](https://o0stweauh.qnssl.com/20150106081545344-1.jpg)
 

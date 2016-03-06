@@ -9,7 +9,7 @@ Rev1.02:修正了一些细微的显示问题和小错误。
 
 **Windows 10评测：集Win7与8之大成**
 
-![](https://o0stweauh.qnssl.com/devindra-hardawar-headshot.jpg) by [Devindra Hardawar](http://www.engadget.com/about/editors/devindra-hardawar/) | [@devindra](http://twitter.com/devindra) | July 28th 2015 At 4:30pm
+by [Devindra Hardawar](http://www.engadget.com/about/editors/devindra-hardawar/) - [@devindra](http://twitter.com/devindra) - July 28th 2015 At 4:30pm
 
 中英翻译由本人所做。原文链接：[http://www.engadget.com/2015/07/28/windows-10-review](http://www.engadget.com/2015/07/28/windows-10-review)
 

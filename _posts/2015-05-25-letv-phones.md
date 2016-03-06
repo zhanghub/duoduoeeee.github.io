@@ -6,7 +6,7 @@ title: 【搬运】乐视手机或年底前进入美国市场
 # The Netflix of China is invading the United States with smartphones
 
 中英翻译由本人所作。原文链接：
-[http://edition.cnn.com/2015/05/19/tech/netflix-of-china-invades-us-smartphone-market/index.html](http://edition.cnn.com/2015/05/19/tech/netflix-of-china-invades-us-smartphone-market/index.html)
+<http://edition.cnn.com/2015/05/19/tech/netflix-of-china-invades-us-smartphone-market/index.html>
 
 本译文之前发布于本人新浪博客，现移植至此。原作版权归原作者所有。
 

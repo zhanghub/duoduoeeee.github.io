@@ -1,30 +1,89 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en">
+<head>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  {% include head.html %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    {% if page.description %}
+        {% assign desc = page.description %}
+    {% else %}
+        {% assign desc = site.description %}
+    {% endif %}
+    {% if page.url %}
+        {% assign url = site.url | append: site.baseurl | append: page.url %}
+    {% else %}
+        {% assign url = site.url | append: site.baseurl | append: page.url %}
+    {% endif %}
+    <meta name="description" content="{{ desc }}">
 
-  <body>
+    <style type="text/css">
+@font-face {
+  font-family: 'HelveticaNeueLT-Light';
+  src:  url('/fonts/HelveticaNeueLT-Light.woff') format('woff'), 
+        url('/fonts/HelveticaNeueLT-Light.ttf')  format('truetype'), 
+        url('/fonts/HelveticaNeueLT-Light.svg#HelveticaNeueLT-Light') format('svg'), 
+        url('/fonts/HelveticaNeueLT-Light.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaNeueLT-Bold';
+    src: url('/fonts/HelveticaNeueLT-Bold.woff') format(woff),
+         url('/fonts/HelveticaNeueLT-Bold.ttf') format(ttf),
+         url('/fonts/HelveticaNeueLT-Bold.svg#HelveticaNeueLT-Bold') format('svg'),
+         url('/fonts/HelveticaNeueLT-Bold.eot') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body { font-family: 'PingFang SC Regular', 'Microsoft YaHei UI Light', 'Microsoft YaHei', 'serif'; }
+h1, h2, h3, h4 { font-weight: normal;
+                 font-family: 'HelveticaNeueLT-Light', 'PingFang SC Regular', 'Microsoft YaHei UI Light', 'Microsoft YaHei', 'serif';}
+.reg { color:black; background:white; }
+.inverse { color:white; background:black; }
+div { padding: 10px 15px; }
+.right { background:white; width:30%; float: right; font-family: sans-serif; border: 1px solid black; border-width: 0 0 1px 1px;}
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-    {% include sidebar.html %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-          <h3 class="masthead-title">
-            <a href="/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
+    <link rel="stylesheet" href="/css/main.css">
+    {% if site.favicon %}
+        <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
+        <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
+    {% endif %}
+    {% if site.twitter_username %}
+        <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
+    {% endif %}
+</head>
+<body>
+    <div class="wrapper">
+        <div class="main">
+            <nav class="navbar">
+                <a href="{{ site.baseurl }}/">
+                    <span class="alignable pull-left back-outer">
+                        <span class="alignable pull-left back-inner">
+                        </span>
+                    </span>
+                </a>
+            </nav>
+            {{ content }}
         </div>
-      </div>
-
-      <div class="container content">
-        {{ content }}
-      </div>
     </div>
+    {% include footer.html %}
+    <script src="/js/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery.1.10.2.min.js"><\/script>')</script>
+    <script src="/js/rrssb.min.js"></script>
 
-  </body>
-</html>
+    {% if page.title %}
+        <script src="/js/anchor.min.js"></script>
+        <script>
+        anchors.options.placement = 'right'
+        anchors.options.class = 'hide'
+        anchors.add()
+        anchors.remove('.post-title')
+        </script>
+    {% endif %}
+</body>

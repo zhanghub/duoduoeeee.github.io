@@ -7,10 +7,7 @@ title: 【搬运】日本通过新版安保法案
 
 **日本立法者批准日自卫队强化其海外角色**
 
-![](https://o0stweauh.qnssl.com/141218022339-will-ripley-profile-small-11.jpg)
-
-**By [Will Ripley](http://edition.cnn.com/profiles/will-ripley), Jason Hanna and Eimi Yamamitsu, CNN**
-Updated 0046 GMT (0746 HKT) September 19, 2015
+By [Will Ripley](http://edition.cnn.com/profiles/will-ripley), Jason Hanna and Eimi Yamamitsu, CNN - Updated 0046 GMT (0746 HKT) September 19, 2015
 
 中英翻译由本人所作。原文链接：[http://edition.cnn.com/2015/09/18/asia/japan-military-constitution/index.html](http://edition.cnn.com/2015/09/18/asia/japan-military-constitution/index.html)
 
