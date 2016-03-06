@@ -4,17 +4,17 @@ title: About
 ---
 
 <h2>Contacting me</h2>
-<p align=center><a href=https://github.com/duoduoeeee><i class="fa fa-github"></i></a> - <a href="mailto:pleasant3518@126.com"><i class="fa fa-envelope"></i></a> - <a href=https://twitter.com/duoduoeeee><i class="fa fa-twitter"></i></a></p>
+<p align=center><a target="_blank" href=https://github.com/duoduoeeee><i class="fa fa-github"></i></a> - <a target="_blank" href="mailto:pleasant3518@126.com"><i class="fa fa-envelope"></i></a> - <a target="_blank" href=https://twitter.com/duoduoeeee><i class="fa fa-twitter"></i></a></p>
 
 <p>This is a <a href="https://jekyllrb.com/">Jekyll blogger</a> built website hosted on <a href="https://pages.github.com/">GitHub pages</a>.</p>
 
 <p><strong>ATTENTION:</strong>Though my TRANSLATIONS subject to the CC 3.0 license,the ORIGINAL PASSAGES that I cite with them might be under copyright protection and copyrights go to corresponding author(s). </p>
 
 ##Contacting the author of this theme
-<p align=center><a href="http://ankitsultana.me/"><i class="fa fa-globe"></i></a> - <a href="https://twitter.com/AnkitSultana"><i class="fa fa-twitter"></i></a></p>
+<p align=center><a target="_blank" href="http://ankitsultana.me/"><i class="fa fa-globe"></i></a> - <a target="_blank" href="https://twitter.com/AnkitSultana"><i class="fa fa-twitter"></i></a></p>
 
 ##Special thanks to:
-- The [git](https://git-scm.com/) software for its amazing versioning capability,and [Git Extensions](https://gitextensions.github.io/) for its great GUI experience.
+- The [git](https://git-scm.com/) software for its amazing versioning capability, and [Git Extensions](https://gitextensions.github.io/) for its great GUI experience.
 - The [gem](https://rubygems.org/), [Bundler](http://bundler.io/) software as well as the [Jekyll](http://jekyllrb.org) project as site-building tools
 - AnkitSultana, who originally built this Jekyll theme (as shown above)
 - [GitHub](https://github.com) as well as [GitHub Pages](https://pages.github.com) for the powerful and stable site building tools
