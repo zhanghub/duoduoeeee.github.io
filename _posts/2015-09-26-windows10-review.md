@@ -11,7 +11,8 @@ Rev1.02:修正了一些细微的显示问题和小错误。
 
 by [Devindra Hardawar](http://www.engadget.com/about/editors/devindra-hardawar/) - [@devindra](http://twitter.com/devindra) - July 28th 2015 At 4:30pm
 
-中英翻译由本人所做。原文链接：[http://www.engadget.com/2015/07/28/windows-10-review](http://www.engadget.com/2015/07/28/windows-10-review)
+中英翻译由本人所做。原文链接：
+[http://www.engadget.com/2015/07/28/windows-10-review](http://www.engadget.com/2015/07/28/windows-10-review)
 
 ![](https://o0stweauh.qnssl.com/Windows+10+review+fullbleed.jpg)
 The best thing about Windows 10 is that it's simply Windows, through and through. It's as if Microsoft realized that devaluing the desktop in Windows 8 was akin to sacrilege, and Windows 10 is its penance. At its core, it's a union of the best qualities of [Windows 7](http://www.engadget.com/2009/08/12/windows-7-review/) and Windows 8 -- the desktop features of the former with some of the touch-friendly aspects of the latter. It's no wonder Microsoft is calling it an operating system that's both fresh and familiar. It's easy to use with a keyboard and mouse, but it's even better with touchscreen computers. The [Start menu](http://www.engadget.com/2015/01/21/windows-10-design/) is back! And new features like Microsoft's [Cortana virtual assistant](http://www.engadget.com/tag/cortana/) and [Edge browser](http://www.engadget.com/2015/04/29/microsoft-edge/) breathe new life into Windows. Microsoft is framing the OS as "Windows as a Service," meaning it's never quite done and constantly evolving. Most importantly, Windows 10 proves that Microsoft's dream of delivering a single OS that can work across computers, tablets and phones might actually come true.
