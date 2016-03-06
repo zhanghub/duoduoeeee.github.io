@@ -14,7 +14,6 @@ title: About
 <p align=center><a href="http://ankitsultana.me/"><i class="fa fa-globe"></i></a> - <a href="https://twitter.com/AnkitSultana"><i class="fa fa-twitter"></i></a></p>
 
 ##Special thanks to:
-- Website <http://www.yinwang.org> for the element shadow css code
 - The [git](https://git-scm.com/) software for its amazing version controlling capability,and [Git Extensions](https://gitextensions.github.io/) for its great GUI experience.
 - The [gem](https://rubygems.org/),[Bundler](http://bundler.io/) software as well as the [Jekyll](http://jekyllrb.org) project as site-building tools
 - AnkitSultana, the Jekyll theme maker (as shown above)
