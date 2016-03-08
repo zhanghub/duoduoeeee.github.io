@@ -1,11 +1,29 @@
----
-layout: default
----
+{% include header.html %}
 
-<div class="content container">
-    <div class="post-date">
-        <time>{{ page.date | date: '%B %d, %Y '}}</time>
+<div class="container container-left">
+    <div class="row">
+        <div class="col-md-3 hidden-xs">
+            {% include sidebar.html %}
+        </div>
+        <div class="col-md-9">
+          <div class="article">
+            <div class="well">
+                {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+            </div>
+            <div class="post-content">
+            {{ content }}
+            </div>
+          </div>
+          <div class="pagination">
+              {% if page.next %}
+                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a>
+              {% endif %}
+              {% if page.previous %}
+                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
+              {% endif %}
+        </div>
+
+        </div>
     </div>
-    <h1 class="post-title">{{ page.title }}</h1>
-    {{ content }}
 </div>
+

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Privacy Statement
 ---
 After thinking about my policies I've made up my decision to remove all means of tracking scripts. You may check out my source code if you are willing to. Yes, no peeking, spying or logging in my website! You may enjoy free and pure online privacy without worrying.
@@ -14,4 +14,4 @@ Yes, this is the proud and joy of a small web administrator.
 
 Thank you!
 <hr />
-<small><p align=middle>Lingduo</p></small>
+<center><small><p>Lingduo</p></small></center>
