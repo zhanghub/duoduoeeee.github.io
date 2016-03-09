@@ -67,6 +67,10 @@ body {
     font-family: "Myriad Pro Reg", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
 }
 
+blockquote {
+    font-size: 1.3em;
+}
+
 .navbar-brand {
     font-family: "HelveticaNeue LT", "Microsoft YaHei UI Light","Microsoft YaHei", serif;
 }
