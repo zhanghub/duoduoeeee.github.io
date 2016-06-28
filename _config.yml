@@ -24,7 +24,7 @@ encoding: utf-8
 # Collections for texts
 collections:
   texts:
-    output: false
+    output: true
 
 # Markdown specs
 markdown: kramdown
