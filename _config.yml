@@ -1,34 +1,42 @@
-# Jekyll configuration
+# Built with Jekyll 3.2.0
 
-name: 我是铎铎
-description: 寒山不系江心月 世间云外刹那灯
+# Setup
+title:               Panoply/blog
+tagline:             'A Jekyll theme for minimal editions'
+description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+url:                 'https://lingduo.net.cn'
+baseurl:             '/'
 
-# url is currently only used only for the RSS feed in feed.xml
-url: https://lingduo.net.cn
+# About/contact
+author:
+  name:              Ling Duo
+  url:               https://twitter.com/duoduoeeee
+  email:             lingduo@lingduo.net.cn
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: ''
+# Permalinks
 
-# This can be '' to hide the Github nav button
-github: 'duoduoeeee'
+permalink: pretty
+permalink: /articles/:title/
 
-# Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
+# Set encoding to UTF-8
+encoding: utf-8
 
-# Set this to your disqus shortname to enable comments. Note that the 'comments'
-# setting below must also be true. Individual posts can override 'comments' to
-# disable on a post-by-post basis
-disqus: ''
-comments: false
+# Collections for texts
+collections:
+  texts:
+    output: true
 
-permalink: /:year/:title
-paginate: 10
-
-highlighter: rouge
+# Markdown specs
 markdown: kramdown
-gems: ['jekyll-paginate']
 
-exclude: ['README.md', 'LICENSE']
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Exclusions from the final site
+exclude: [optional, vendor]

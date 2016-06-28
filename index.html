@@ -1,25 +1,35 @@
 ---
 layout: default
 ---
-
-{% for post in paginator.posts %}
-<div class="article">
-    <div class="well">
-        <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
-    </div>
+<div class="introduction">
+  <h1>Hello.</h1>
+  <p>This site includes my thoughts and some of my translations. Basically the sources of my translations are from some foreign websites such as CNN, BBC and such. Sources are properly referred to in every single post. Topics include tech, current events and some cool stuff. Nearly all sources are accessible without climbing the GFW of China except specially clarified ones.</p>
+  <p>Feel free to <a href="mailto:lingduo@lingduo.net.cn">shoot me emails</a> if you want something translated and posted on my website.</p>
+  <hr />
+  <center>
+    <p>
+      <a target="_blank" href="about">About</a> |
+      <a target="_blank" href="privacy">Privacy</a> |
+      <a target="_blank" href="i">Interesting</a> |
+      <a target="_blank" href="https://status.lingduo.net.cn">Microblog</a> |
+      <a target="_blank" href="https://zhihu.com/people/duoduoeeee">Zhihu</a>
+    </p>
+  </center>
 </div>
-{% endfor %}
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">Newer</a>
-      {% else %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">Newer</a>
-      {% endif %}
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Older</a>
-  {% endif %}
+<div class="message">
+  <p>June 27th, 2016 was the 7th anniversary of <a href="http://bilibili.com" target="_blank">Bilibili</a>'s foundation. Thanks to the (probably) biggest ACG video site in Mainland China. Cheers.</p>
+</div>
+
+<div class="toc">
+  <h2>Articles</h2>
+  <ul class="post">
+  {% for item in site.texts do %}
+    <li class="post-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
 </div>
