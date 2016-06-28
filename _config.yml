@@ -16,7 +16,7 @@ author:
 # Permalinks
 
 permalink: pretty
-permalink: /articles/:title/
+permalink: /:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
