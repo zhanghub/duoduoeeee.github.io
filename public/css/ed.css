@@ -36,7 +36,11 @@ html {
   line-height: 1.5;
 }
 
-.introduction .message{
+.message{
+  font-family: "Myriad Pro Regular", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
+}
+
+.introduction {
   font-family: "Myriad Pro Regular", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
 }
 
