@@ -31,7 +31,7 @@ body {
 }
 
 html {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino,"Microsoft YaHei UI Light", "Microsoft YaHei", serif;
+  font-family: "Myriad Pro Regular", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -94,7 +94,7 @@ body {
 /* links */
 
 a, .post-title a {
-  color: #841212;
+  color: #08c;
   text-decoration: none;
 }
 
@@ -111,7 +111,7 @@ a:focus {
 /* Headings */
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", "Microsoft YaHei", sans-serif;
+  font-family: "Myriad Pro Regular", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
   margin-bottom: .5rem;
   font-weight: 400;
   font-size: 1.5rem;
@@ -291,11 +291,12 @@ tbody tr:nth-child(odd) th {
   line-height: 1.5rem;
 }
 .masthead-title a {
-	color: #841212;
+	color: #08c;
+  text-decoration: none;
 }
 
 .masthead-title small {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino,"Microsoft YaHei UI Light", "Microsoft YaHei", serif;
+  font-family: "Myriad Pro Light", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
   font-size: 1rem;
   font-weight: 400;
   color: #c0c0c0;
@@ -303,7 +304,7 @@ tbody tr:nth-child(odd) th {
 }
 
 h3.masthead-title {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino,"Microsoft YaHei UI Light", "Microsoft YaHei", serif;
+	font-family: "Myriad Pro Semibold", "Microsoft YaHei UI Light", "Microsoft YaHei", serif;
 	font-size: 1.8rem;
 	margin-top: 2px;
 }
