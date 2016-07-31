@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--
+    * Author:         BeiYuu
+    * Revised:        Mukosame
+    -->
+    <meta charset="utf-8" />
+    <title>我的导航 | Lingduo's blog</title>
+    <meta name="author" content="Lingduo" />
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+
+    <div class="home-menu">
+        <div class="home-icon-con">
+            <a class="home-menu-icon" href="/">Duoduoeeee</a>
+            <a class="home-follow" href="#" title="Contact Me">…</a>
+        </div>
+        <div class="home-contact">
+            <a href="https://github.com/duoduoeeee/" target="_blank" style="margin-left:-5px;"><img src="https://github.com/favicon.ico" alt="github" width="22"/></a>
+            <a href="https://thoughtstreams.io/duoduoeeee/" target="_blank" style="margin-left:-5px;"><img src="https://thoughtstreams.io/site_media/static/img/favicon.ico" alt="ts" width="22"/></a>
+            <a href="http://www.zhihu.com/people/duoduoeeee" target="_blank" style="text-align:right"><img src="https://www.zhihu.com/favicon.ico" alt="zhihu" width="22"/></a>
+            <a href="http://www.twitter.com/duoduoeeee" target="_blank" style="text-align:right"><img src="/images/favicon.ico" alt="twitter" width="22"/></a>
+        </div>
+    </div>
+
+    <link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1020px){
+        body { background:#fff; }
+    }
+</style>
+
+<div id="content">
+    <div class="entry" style="margin-left: 15%; margin-right: 15%;">
+        <h1 class="entry-title">我的导航</h1>
+        <div class="page">
+      <ul>
+        <li><a href="http://bilibili.com" target="_blank">哔哩哔哩</a></li>
+        <li><a href="http://jianshu.io" target="_blank">简书</a></li>
+        <li><a href="https://zhihu.com" target="_blank">知乎网</a></li>
+        <li><a href="https://github.com" target="_blank">GitHub</a></li>
+        <li><a href="https://thoughtstreams.io" target="_blank">ThoughtStreams</a></li>
+        <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
+        <li><a href="http://xk.swufe.edu.cn" target="_blank">西财选课系统</a></li>
+        <li><a href="http://sspai.com" target="_blank">少数派</a></li>
+        <li><a href="http://hao.199it.com" target="_blank">大数据工具集</a></li>
+        <li><a href="http://wonderhowto.com" target="_blank">Wonder How To</a></li>
+        <li><a href="http://t.tt" target="_blank">锤子科技官网</a></li>
+      </ul>
+    <h2>友情链接</h2>
+      <p>欢迎交换。</p>
+</div>
+
+    </div>
+
+</div>
+
+
+    <script type="text/javascript">
+        $(function(){
+            $('.home-follow').click(function(e){
+                e.preventDefault();
+
+                if($('.home-contact').is(':visible')){
+                    $('.home-contact').slideUp(100);
+                }else{
+                    $('.home-contact').slideDown(100);
+                }
+            });
+        })
+    </script>
+</body>
+</html>

@@ -1,42 +1,8 @@
-# Built with Jekyll 3.2.0
+#markdown: rdiscount
+highlighter: 'pygments'
+#paginate: 10
 
-# Setup
-title:               Panoply/blog
-tagline:             'Be simple thus elegant.'
-description:         ''
-url:                 'https://lingduo.net.cn'
-baseurl:             ''
-
-# About/contact
-author:
-  name:              Ling Duo
-  url:               https://twitter.com/duoduoeeee
-  email:             lingduo@lingduo.net.cn
-
-# Permalinks
-
-permalink: pretty
-permalink: /:title/
-
-# Set encoding to UTF-8
-encoding: utf-8
-
-# Collections for texts
-collections:
-  texts:
-    output: true
-
-# Markdown specs
-markdown: kramdown
-
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  footnote_backlink: "&#x21a9;&#xfe0e;"
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Exclusions from the final site
-exclude: [optional, vendor]
+title: "Lingduo's blog"
+url: https://duoduoeeee.github.io
+feed:
+author_info: <a href="https://duoduoeeee.github.io/">Lingduo</a>
