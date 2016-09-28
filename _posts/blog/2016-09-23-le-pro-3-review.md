@@ -66,7 +66,7 @@ LeEco seemed pretty proud to announce the new hidden logo “feature”, but al
 
 看起来乐视发布他们隐藏 logo 的“特性”时甚为自豪。但是看起来它就是一个乐视样子的触控 home 键，按下的时候键会点亮。就这么回事，抱歉浪费了你的时间╭(°A°`)╮
 
-###5. LeEco’s second flagship in a year?
+### 5. LeEco’s second flagship in a year?
 
 ![](http://i2.wp.com/www.gizchina.com/wp-content/uploads/images/2016/09/762015a396c548258a39178ad9bd7af6.jpg)
 
