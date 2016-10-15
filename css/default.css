@@ -32,15 +32,15 @@ body .hide{display:none;}
 
 
 /***********default settings**********/
-body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;}
+body {font-family: "Helvetica", "Noto Sans CJK SC", "微软雅黑","Arial","sans-serif";font-size:16px;}
 a {color:#4A75B5;text-decoration:none;outline:none;}
 a:hover {text-decoration:underline}
-a.external {padding-right:13px;background:url('/images/icons.gif') no-repeat right 1px;}
-a.external:hover {background-position:right -15px;}
 .entry-title,.entry-title a {font-size:30px;font-weight:bold;margin-bottom:6px;color:#000;text-align:center;word-wrap: break-word;}
 .entry-title a:hover {text-decoration:none;}
 .entry-date {text-align:center;color:#999;margin-bottom:60px;font-size:14px;}
+.xyquote {text-align:center;color:#999;margin-top:60px;font-size:14px;font-style:italic;}
 
+/*no need of h1 element*/
 h2 {font-size:22px;font-weight:bold;margin-bottom:25px;}
 h3 {font-size:18px;font-weight:bold;margin-bottom:25px;}
 h4,h5,h6 {font-weight:bold;margin-bottom:15px;}
@@ -67,7 +67,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ul li{margin-bottom:5px;list-style:disc;line-height:1.8em;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
-.entry blockquote{margin-left:25px;font-size:14px;font-style:italic}
+.entry blockquote{margin-left:25px;font-size:14px;font-style:italic;border-left:2px;border-left-color:#ff7e7e;border-left-style:solid;padding-left:1rem;}
 .entry img{max-width:670px;display:block;margin:10px auto;}
 
 
