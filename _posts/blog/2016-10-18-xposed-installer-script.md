@@ -1,9 +1,10 @@
 ---
 title: 【作死系列】你如何安装 Xposed 框架？
 category: blog
-permalink: /p/
+permalink: /p/259184
 layout: post
 description: 不准用 custom recovery，不准用 flashfire 和 flashify。
+
 ---
 
 作死给我锤升级了 SOS 2.6.8。。。发热严重，电充不满，果断回滚。回到 2.6.2 就可以安装 Xposed 模块了。
