@@ -15,9 +15,11 @@ layout:           default
 
 <div id="content">
     <div class="entry" style="margin-left: 15%; margin-right: 15%;">
+	<div class="page">
         <h1 class="entry-title">{{ page.title }}</h1>
         {{ content }}
-	<p class="xyquote">{{ site.xyquote }}</p>
+	{% if site.xyquote %}<p class="xyquote">{{ site.xyquote }}</p> {% endif %}
+	</div>
     </div>
 
 </div>

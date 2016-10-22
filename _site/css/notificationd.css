@@ -1,0 +1,62 @@
+/****displaysettings****/
+.notificationgeneric {
+	display: block;
+	margin-left: 5%;
+	margin-right: 5%;
+	border-radius: 3px;
+	border-width: 0.7px;
+	border-style: solid;
+	height: auto;
+	width: 100%;
+	margin-bottom: 1.5rem;
+	}
+.notificationgeneric p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: auto;
+	width: 95%;
+	font-size: 14px;
+	}
+.notificationgeneric strong {
+	font-size: 18px;
+	}
+
+/****colors****/
+.greennotification {
+	color: #007000;
+	background-color: #46ff7c;
+	border-color: #009100;
+	}
+.rednotification {
+	color: #700000;
+	background-color: #ff3737;
+	border-color: #700000;
+	}
+.yellownotification{
+	color: #ff1500;
+	background-color: #ffac00;
+	border-color: #ff1500;
+}
+.bluenotification{
+	color: #00078a;
+	background-color: #00a1ff;
+	border-color: #00508a;
+}
+
+/****close button
+#close {
+    float:right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+}
+#close:hover {
+    float:right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+    color:#fff;
+}
+****/

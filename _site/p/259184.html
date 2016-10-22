@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--
+    * Author:         BeiYuu
+    * Revised:        Mukosame
+	**Revised:	Lingduo
+    -->
+    <meta charset="utf-8" />
+    <title>【作死系列】你如何安装 Xposed 框架？ | Lingduo's blog</title>
+    <meta name="author" content="Lingduo" />
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="stylesheet" href="/css/notificationd.css" type="text/css" />
+    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+      @font-face {
+        font-family: 'FontAwesome';
+        src: url('https://cdn.bootcss.com/font-awesome/4.6.3/fonts/fontawesome-webfont.svg') format('svg');
+      }
+    </style>
+</head>
+<body>
+
+    <div class="home-menu">
+        <div class="home-icon-con">
+            <a class="home-menu-icon" href="/">Duoduoeeee</a>
+            <a class="home-follow" href="#" title="Contact Me">…</a>
+        </div>
+        <div class="home-contact">
+            <a href="https://github.com/duoduoeeee/" target="_blank" style="margin-left:-5px;"><img src="https://github.com/favicon.ico" alt="github" width="22"/></a>
+            <a href="https://thoughtstreams.io/duoduoeeee/" target="_blank" style="margin-left:-5px;"><img src="https://thoughtstreams.io/site_media/static/img/favicon.ico" alt="ts" width="22"/></a>
+            <a href="https://www.zhihu.com/people/duoduoeeee" target="_blank" style="text-align:right"><img src="https://www.zhihu.com/favicon.ico" alt="zhihu" width="22"/></a>
+            <a href="https://www.twitter.com/duoduoeeee" target="_blank" style="text-align:right"><img src="/images/favicon.ico" alt="twitter" width="22"/></a>
+        </div>
+    </div>
+
+    <link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1020px){
+        body { background:#fff; }
+    }
+</style>
+
+<div id="content">
+    <div class="entry">
+        <h1 class="entry-title">【作死系列】你如何安装 Xposed 框架？</h1>
+        <p class="entry-date">2016年10月18日</p>
+        <p>作死给我锤升级了 SOS 2.6.8。。。发热严重，电充不满，果断回滚。回到 2.6.2 就可以安装 Xposed 模块了。</p>
+
+<p>想想还有点小激动呢 WAW</p>
+
+<p>先是求助于万能的 GitHub 找到了一个安装用的installer.bin，结果完全不能用啊qaq，老是报找不到目录，尼玛，还把我存储卡说是一个文件，真是服了</p>
+
+<p>后来找到的是这个东西：</p>
+
+<p><a href="http://androidforums.com/threads/guide-installing-xposed-without-flashfire.1071558/">http://androidforums.com/threads/guide-installing-xposed-without-flashfire.1071558/</a></p>
+
+<p>给了一个 installer.bin</p>
+
+<p>看着不错，只是安装器是法语的。。。我就日了狗了</p>
+
+<p>安装步骤如下：</p>
+
+<ul>
+  <li>
+    <p>下载对应版本的 Xposed 官方卡刷包。安装器上给出的说明是：</p>
+  </li>
+  <li>
+    <pre><code>Recuerda que:
+   
+ SDK 21 --&gt; Android 5.0
+ SDK 22 --&gt; Android 5.1
+ SDK 23 --&gt; Android 6.0
+</code></pre>
+  </li>
+  <li>
+    <p>这个不用翻译的吧。。。</p>
+  </li>
+  <li>
+    <p>然后如果文件正确的话，这里就会报出来：</p>
+  </li>
+  <li>
+    <pre><code>Estas instalando Xposed v86 para SDK 22
+Si no es el correcto no llegara a instalarse
+</code></pre>
+  </li>
+  <li>
+    <p>大概就是说检测到的版本是 SDK 22，如果不是正确的版本就不要装（？）。我是 5.1 的桌子机=_=</p>
+  </li>
+  <li>
+    <p>然后……</p>
+  </li>
+  <li>
+    <pre><code>Presiona 1 para continuar:
+</code></pre>
+  </li>
+  <li>
+    <p>按 1 键继续。。。</p>
+  </li>
+  <li>
+    <pre><code>Busybox instalado correctamente en Xbin.
+-El SDK de Xposed es el correcto (22).
+-La arquitectura del procesador es de 64 Bits
+Al igual que el Xposed que intenta instalar.
+</code></pre>
+  </li>
+  <li>
+    <p>。。。这是啥。。。管它的反正是绿色，应该是没错的。。。</p>
+  </li>
+  <li>
+    <pre><code>Montando particiones...
+Creando directorios...
+Descomprimiendo archivos...
+</code></pre>
+  </li>
+  <li>
+    <p>嗯这个我懂，</p>
+  </li>
+  <li>
+    <pre><code>Archive:  /sdcard/xposed-v86-sdk22-arm64.zip
+  inflating: META-INF/com/google/android/flash-script.sh
+  inflating: META-INF/com/google/android/update-binary
+  inflating: META-INF/com/google/android/updater-script
+  inflating: system/bin/app_process32_xposed
+  inflating: system/bin/app_process64_xposed
+  inflating: system/bin/dex2oat
+  inflating: system/bin/oatdump
+  inflating: system/bin/patchoat
+  inflating: system/framework/XposedBridge.jar
+  inflating: system/lib/libart-compiler.so
+  inflating: system/lib/libart.so
+  inflating: system/lib/libsigchain.so
+  inflating: system/lib/libxposed_art.so
+  inflating: system/lib64/libart-disassembler.so
+  inflating: system/lib64/libart.so
+  inflating: system/lib64/libsigchain.so
+  inflating: system/lib64/libxposed_art.so
+  inflating: system/xposed.prop
+  inflating: META-INF/MANIFEST.MF
+  inflating: META-INF/CERT.SF
+  inflating: META-INF/CERT.RSA
+</code></pre>
+  </li>
+  <li>
+    <p>终于有英文了qaq。。。</p>
+  </li>
+  <li>
+    <pre><code>Comprobando Xposed...
+Moviendo archivos...
+
+Fin de la instalacion
+
+Ahora ve a Xposed y haz un reinicio suave
+Al iniciar el sistema estara optimizando apps
+Dependiendo de las aplicaciones instaladas,
+tardara segundos hasta una hora.
+Si todo esta bien, Xposed estara activo.
+
+Se ha creado un Log de la instalacion
+en la ruta /sdcard
+
+Saludos!
+
+</code></pre>
+  </li>
+  <li>不懂。。。但是我看见了 Saludos。。。想起了salute。。。好像装完了qaq</li>
+</ul>
+
+<p>那，重启。。。</p>
+
+<p>优化应用。。。(⊙ˍ⊙)</p>
+
+<p>完了qaq</p>
+
+<p>(～o￣▽￣)～o 。。。滚来滚去……o～(＿△＿o～) ~。。。</p>
+
+<p>安装脚本给你们供玩坏：</p>
+
+<p><a href="https://o0stweauh.qnssl.com/installer.bin">下载</a></p>
+
+<p>麻麻再也不担心我装不上 Xposed 辣</p>
+
+	<p class="xyquote">「今夜は月が绮丽ですね」</p>
+    </div>
+
+    <div class="sidenav">
+        <h2>Pages</h2>
+        <ul class="artical-list">
+          
+          <li><a href="/nav">我的导航</a></li>
+          
+          <li><a href="/about">About me</a></li>
+          
+        </ul>
+    </div>
+
+</div>
+
+<script src="/js/post.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        $(function(){
+            $('.home-follow').click(function(e){
+                e.preventDefault();
+
+                if($('.home-contact').is(':visible')){
+                    $('.home-contact').slideUp(100);
+                }else{
+                    $('.home-contact').slideDown(100);
+                }
+            });
+        })
+    </script>
+	
+</body>
+</html>
