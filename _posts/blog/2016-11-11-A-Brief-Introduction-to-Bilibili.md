@@ -6,5 +6,5 @@ category: blog
 layout: post
 ---
 
-![](https://oOstweauh.qnssl.com/Notes_20161112_020116.jpg)
+![](https://o0stweauh.qnssl.com/Notes_20161112_020116.jpg)
 
