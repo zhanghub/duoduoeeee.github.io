@@ -3,7 +3,7 @@ highlighter: 'pygments'
 #paginate: 10
 
 title: "Lingduo's blog"
-xyquote: ""
+xyquote: "「今夜は月が绮丽ですね」"
 url: https://duoduoeeee.github.io
 feed:
 author_info: <a href="https://duoduoeeee.github.io/">Lingduo</a>
@@ -12,4 +12,4 @@ author_info: <a href="https://duoduoeeee.github.io/">Lingduo</a>
 alert: 
 alright: 
 warning: 
-notification:
+notification: 
