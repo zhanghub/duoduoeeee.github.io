@@ -1,0 +1,7 @@
+title: Lingduo's Blog
+baseurl: 
+permalink: /:title
+markdown: rdiscount
+highlighter: pygments
+date_format: "ordinal"
+subscribe_rss: ""
