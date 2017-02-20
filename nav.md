@@ -1,5 +1,6 @@
 ---
 title: 导航
+layout: post
 permalink: /nav
 ---
 
