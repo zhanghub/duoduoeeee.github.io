@@ -1,5 +1,5 @@
 body {
-    font-family: "Source Han Sans SC", "Lucida Grande", "Helvetica Neue","Helvetica", Arial, Tahoma, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑",  SimSun, "宋体", Heiti, "黑体", sans-serif;
+    font-family: "Lucida Grande", "Helvetica Neue", "Helvetica", "Source Han Sans CN", "Microsoft YaHei", Arial,  SimSun, "宋体", Heiti, "黑体", sans-serif;
     font-size: 18px;
     margin: 5% 20% 5% 20%;
     padding: 2% 5% 5% 5%;
@@ -11,7 +11,7 @@ body {
 table
 
 H1, H2, H3, H4 {
-    font-family: "华文中宋", "Trebuchet MS", "Book Antiqua", Palatino, "Helvetica Neue", Helvetica, STKaiti, SimSun, serif;
+    font-family: "Helvetica Neue", "Helvetica", "Source Han Sans CN", "Microsoft YaHei", SimSun, serif;
     color: gray;
 }
 
@@ -70,6 +70,8 @@ pre {
 code {
     font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
     font-size: 90%;
+    border: solid 1px lightgrey;
+    background-color: Ivory;
 }
 
 
