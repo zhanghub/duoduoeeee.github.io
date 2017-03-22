@@ -14,7 +14,7 @@ German books were burnt, sauerkraut was renamed “liberty cabbage” and frankf
 
 Friedrich died of Spanish flu in 1918 at the age of only 49 and left Fred and his mother a tidy sum of money, which they used to set up a company, E. Trump & Son, and invested in property.
 
-> 弗里德里希于1918年死于西班牙流感，年仅49岁。他留给了弗雷德和他母亲大笔遗产，他们用这笔钱成立了一家名叫E.特朗普父子的公司，同时也投资了房地产。
+> 弗里德里希于1918年死于西班牙流感，年仅49岁。他留给了~~弗雷德和他母亲~~**弗雷德母子**大笔遗产，他们用这笔钱成立了一家名叫E.特朗普父子的公司，~~同时也~~**还**投资了房地产。
 
 After graduation from high school in 1923, Fred started to work full-time in construction.
 
