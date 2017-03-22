@@ -22,7 +22,7 @@ After graduation from high school in 1923, Fred started to work full-time in con
 
 He realised quickly that his German origins could be a hindrance, so he pretended that his parents were Swedish, though his mother spoke English with a thick German accent and baked Apfeltorte for family reunions.
 
-> 他很快意识到，他的德国出身可能是一个障碍，所以他对外佯称他的父母是瑞典人，尽管他的母亲讲的英语带有浓厚的德国口音，并且在家庭聚会时烘焙 Apfeltorte（德语，意为“苹果馅饼“）。
+> 他很快意识到，他的德国出身可能是一个障碍，所以他对外佯称他的父母是瑞典人，尽管他的母亲讲的英语带有浓厚的德国口音，并且在家庭聚会时烘焙**德式苹果馅饼（** Apfeltorte**）**~~（德语，意为“苹果馅饼“）~~。
 
 Donald was Fred Trump’s favourite child, and followed him into the building business.
 
